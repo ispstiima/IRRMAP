@@ -9,7 +9,7 @@ The IRRMAP Dataset contains information about soil moisture, irrigation amount, 
 IRRMAP is meant to support data-driven modeling, particularly for applications in precision irrigation and deep learning-based water management systems, as it integrates the main physical processes and information that influence soil moisture and irrigation variability. The following Table presents the features within the dataset. It must be noticed that each record corresponds to a specific daily timestamp, aiming to assess the soil-water-atmosphere interaction.
 
 | Features           | Description                                | Units        |
-| ------------------ |--------------------------------------------| ------------:|
+| ------------------ |--------------------------------------------| -------------|
 | Timestamp          | Date of observation                        |   YYYY-MM-DD |
 | Soil Moisture      | Volumetric soil water content              |            % |
 | Irrigation Amount  | Daily irrigation water applied             |     $mm/day$ |
