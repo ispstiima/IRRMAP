@@ -35,4 +35,5 @@ TBA
 ## Contacts
 
 - Laura Romeo: laura.romeo@stiima.cnr.it
+- Antonio Coratelli: antonio.coratelli@stiima.cnr.it
 - Antonio Petitti: antonio.petitti@stiima.cnr.it
